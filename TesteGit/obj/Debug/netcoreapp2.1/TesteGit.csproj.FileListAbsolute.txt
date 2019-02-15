@@ -1,0 +1,11 @@
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.deps.json
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.runtimeconfig.json
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.runtimeconfig.dev.json
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.dll
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp2.1\TesteGit.pdb
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.csprojAssemblyReference.cache
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.AssemblyInfo.cs
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.dll
+C:\Users\Anderson Ribas\Documents\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp2.1\TesteGit.pdb
